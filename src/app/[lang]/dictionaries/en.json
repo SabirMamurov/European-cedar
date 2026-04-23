@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "title": "Siberian Cedar — premium pine nut kernels from the taiga",
+    "description": "Siberian Cedar — ecologically clean pine nut kernels from the heart of the Siberian taiga. Hand harvested, eco-processed, shipped direct."
+  },
+  "nav": {
+    "home": "Home",
+    "story": "About Us",
+    "products": "Our Products",
+    "quality": "Quality",
+    "documents": "Documents",
+    "contact": "Contact",
+    "cta": "Enquire Now"
+  },
+  "hero": {
+    "eyebrow": "A natural product from Siberia",
+    "title": "Premium Pine Nut Kernels — Direct from the Heart of the Taiga",
+    "subtitle": "Experience the pure, organic taste of pine nut kernels carefully harvested in the pristine forests of Siberia.",
+    "cta": "Enquire Now",
+    "scroll": "Learn more"
+  },
+  "journey": {
+    "title": "Our Journey from the Taiga to You",
+    "subtitle": "Three honest steps — no shortcuts, no extras.",
+    "productionLabel": "About Us",
+    "productionText": "The Siberian Cedar Eco-Factory is one of Russia's leading processors of pine nut kernels and other natural products, with 24 years in the industry. Member of the INC (International Nut and Dried Fruit Council) since 2022.",
+    "steps": [
+      {
+        "title": "Wild Harvest",
+        "text": "Hand-picked in the untouched Siberian taiga, with deep respect for the forest."
+      },
+      {
+        "title": "Eco Processing",
+        "text": "Our in-house Siberian Eco Factory uses gentle low-temperature drying (never above 39 °C), with zero preservatives."
+      },
+      {
+        "title": "Delivery across Europe",
+        "text": "We ship directly from the producer to customers anywhere in Europe — no middlemen, freshness guaranteed."
+      }
+    ]
+  },
+  "packaging": {
+    "title": "Our Products",
+    "subtitle": "Choose a format — from a sample pouch to a wholesale pallet.",
+    "requestInfo": "Request Info",
+    "highlights": "670 kcal / 100 g · 12-month shelf life · 100 % pine nut kernel · vacuum-sealed",
+    "items": [
+      {
+        "size": "100 g",
+        "label": "Pine Nut Kernel",
+        "text": "Perfect for tasting and first trial orders — small format to introduce the product."
+      },
+      {
+        "size": "500 g",
+        "label": "Pine Nut Kernel",
+        "text": "Ideal size for retail shelves and premium gift sets."
+      },
+      {
+        "size": "1 kg",
+        "label": "Pine Nut Kernel",
+        "text": "Best value for HoReCa and wholesale partners."
+      },
+      {
+        "size": "5 kg",
+        "label": "Pine Nut Kernel — Bulk",
+        "text": "Bulk format for large importers, distributors and wholesale clients."
+      }
+    ],
+    "modal": {
+      "closeLabel": "Close",
+      "overviewLabel": "Overview",
+      "overviewText": "Fresh shelled pine nut kernel from the Siberian Cedar Eco-Factory. Harvested in ecologically clean Siberian forests, far from industrial areas. Passes a 12-stage cleaning and inspection process, including radiation control in a modern laboratory.",
+      "compositionLabel": "Ingredients",
+      "compositionText": "100% pine nut kernel — nothing else.",
+      "nutritionLabel": "Nutrition per 100 g",
+      "nutritionItems": [
+        { "label": "Energy", "value": "670 kcal / 1920 kJ" },
+        { "label": "Protein", "value": "12 g" },
+        { "label": "Fat", "value": "61 g" },
+        { "label": "Carbohydrates", "value": "20 g" }
+      ],
+      "benefitsLabel": "Beneficial properties",
+      "benefitsText": "Contains a full set of amino acids and micro-elements (copper, cobalt, manganese, zinc). Rich in arginine — important for growing bodies. Recommended for pregnant women and children.",
+      "shelfLifeLabel": "Shelf life",
+      "shelfLifeText": "12 months sealed. Up to 6 months after opening when stored at +2…+6 °C.",
+      "storageLabel": "Storage",
+      "storageText": "At +20 °C, relative humidity no more than 70%.",
+      "packagingLabel": "Packaging",
+      "packagingText": "Vacuum-sealed — oxidation is halted until the moment you open it.",
+      "weightLabel": "Net weight",
+      "originLabel": "Origin",
+      "originText": "Siberian taiga, Tomsk region, Russia.",
+      "cta": "Enquire about this size"
+    }
+  },
+  "about": {
+    "title": "12 cleaning stages and 6 levels of control",
+    "lead": "Expert know-how lets us reach the highest kernel quality at every step — from manual sorting to radiation analysis in a modern laboratory.",
+    "pillars": [
+      {
+        "title": "Harvest-site & quality control",
+        "text": "We source from vetted suppliers in Western and Eastern Siberia. Incoming raw material passes organoleptic inspection, removal of mechanical impurities and damaged nuts, plus radiological and biological control."
+      },
+      {
+        "title": "Gentle processing",
+        "text": "To preserve the maximum of nutrients and guarantee long freshness, we use modern cleaning and thermal-treatment technology — and never wash already-cleaned kernels."
+      },
+      {
+        "title": "Modern equipment",
+        "text": "The factory is equipped to grade kernels by calibre and eliminate even the smallest foreign particles, producing uniformly high-quality batches."
+      },
+      {
+        "title": "Careful storage",
+        "text": "Warehouses are kept at controlled temperature, humidity, ventilation and lighting, with full sanitary compliance. Kernels are then vacuum-packed — oxidation is halted until opening, locking in freshness and microbiological stability across the whole shelf life."
+      }
+    ],
+    "aside": "Our range also includes selected dried fruits from Uzbekistan — available on request."
+  },
+  "certificates": {
+    "title": "Certified quality you can trust",
+    "subtitle": "Official certifications from European and Russian authorities — plus HACCP, ISO 22000 and an EU export licence.",
+    "items": [
+      {
+        "title": "Organic Certificate (EU Euroleaf)",
+        "text": "The Siberian Eco-Factory production holds the European Bio-Certificate «Organic» for six product categories, including shelled pine nut kernels. The certificate guarantees that the produce — gathered in the Keninga area of the Tomsk region — contains at least 95% ingredients grown in line with biodynamic-farming standards. Marked with the green-leaf EU Organic logo.",
+        "imageAlt": "EU Organic certificate"
+      },
+      {
+        "title": "Organic Certificate (Roskachestvo)",
+        "text": "Russian organic certification issued by Roskachestvo, confirming compliance with national organic standards for pine nut kernels and related cedar products.",
+        "imageAlt": "Russian Organic certificate"
+      }
+    ],
+    "footnote": "The production also complies with HACCP food-safety standards, is certified under ISO 22000-2007, and holds an EU export licence №060RU20002005086."
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Send us a message — we reply within one business day.",
+    "details": "Tell us about your project — we’ll gladly discuss volumes from a pilot batch to recurring supply across EU markets, private-label packaging, certification copies and shipping terms.",
+    "topicsLabel": "You can ask us about",
+    "topics": [
+      "Wholesale pricing & pallet formats",
+      "Organic certificates & export licence",
+      "Delivery to your country / warehouse"
+    ],
+    "salesLabel": "EU Sales — write or call",
+    "name": "Name",
+    "namePlaceholder": "What should we call you?",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "message": "Message",
+    "messagePlaceholder": "Tell us what you're interested in",
+    "submit": "Send Enquiry",
+    "notBot": "I'm not a robot",
+    "sending": "Sending…",
+    "success": "Thank you! We'll get back to you shortly.",
+    "error": "Something went wrong. Please try again.",
+    "botError": "Please confirm you are not a robot."
+  },
+  "footer": {
+    "tagline": "Natural Siberian pine nut kernels.",
+    "rights": "All rights reserved.",
+    "sections": {
+      "nav": "Navigation",
+      "contacts": "Contact",
+      "social": "Follow us"
+    }
+  }
+}

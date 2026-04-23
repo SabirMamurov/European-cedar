@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "title": "Siberian Cedar — pinoli siberiani premium dalla taiga",
+    "description": "Siberian Cedar — pinoli ecologicamente puri dal cuore della taiga siberiana. Raccolti a mano, lavorazione eco, consegna diretta."
+  },
+  "nav": {
+    "home": "Home",
+    "story": "Chi siamo",
+    "products": "I nostri prodotti",
+    "quality": "Qualità",
+    "documents": "Documenti",
+    "contact": "Contatti",
+    "cta": "Richiedi informazioni"
+  },
+  "hero": {
+    "eyebrow": "Un prodotto naturale della Siberia",
+    "title": "Pinoli premium — direttamente dal cuore della taiga",
+    "subtitle": "Assapora il gusto puro e naturale dei pinoli raccolti con cura nelle foreste incontaminate della Siberia.",
+    "cta": "Richiedi informazioni",
+    "scroll": "Scopri di più"
+  },
+  "journey": {
+    "title": "Dal cuore della taiga fino a te",
+    "subtitle": "Tre passi onesti — senza scorciatoie, senza aggiunte.",
+    "productionLabel": "Chi siamo",
+    "productionText": "La Eco-Fabbrica «Siberian Cedar» è uno dei principali trasformatori di pinoli e altri prodotti naturali in Russia, con 24 anni di attività nel settore. Membro dell'INC (International Nut and Dried Fruit Council) dal 2022.",
+    "steps": [
+      {
+        "title": "Raccolta selvatica",
+        "text": "Raccolti a mano nella taiga siberiana incontaminata, con profondo rispetto per la foresta."
+      },
+      {
+        "title": "Lavorazione ecologica",
+        "text": "La nostra Eco-Fabbrica Siberiana usa essiccazione delicata a bassa temperatura (mai oltre 39 °C), senza conservanti."
+      },
+      {
+        "title": "Consegna in tutta Europa",
+        "text": "Spediamo direttamente dal produttore al cliente ovunque in Europa — senza intermediari, freschezza garantita."
+      }
+    ]
+  },
+  "packaging": {
+    "title": "I nostri prodotti",
+    "subtitle": "Scegli il formato — dal campione al bancale all'ingrosso.",
+    "requestInfo": "Richiedi info",
+    "highlights": "670 kcal / 100 g · conservabilità 12 mesi · 100 % pinoli sgusciati · confezione sottovuoto",
+    "items": [
+      {
+        "size": "100 g",
+        "label": "Pinoli sgusciati",
+        "text": "Perfetto per degustazioni e primi ordini di prova."
+      },
+      {
+        "size": "500 g",
+        "label": "Pinoli sgusciati",
+        "text": "Formato ideale per il retail e per i set regalo."
+      },
+      {
+        "size": "1 kg",
+        "label": "Pinoli sgusciati",
+        "text": "Miglior rapporto qualità-prezzo per HoReCa e grossisti."
+      },
+      {
+        "size": "5 kg",
+        "label": "Pinoli sgusciati — all'ingrosso",
+        "text": "Formato all'ingrosso per importatori, distributori e grandi clienti."
+      }
+    ],
+    "modal": {
+      "closeLabel": "Chiudi",
+      "overviewLabel": "Descrizione",
+      "overviewText": "Pinoli sgusciati freschi dall'Eco-Fabbrica «Siberian Cedar». Raccolti nelle foreste siberiane ecologicamente pulite, lontano dalle zone industriali. Sottoposti a 12 fasi di pulizia e verifica, incluso il controllo radiologico in laboratorio moderno.",
+      "compositionLabel": "Ingredienti",
+      "compositionText": "100% pinoli di cedro siberiano — nient'altro.",
+      "nutritionLabel": "Valori nutrizionali per 100 g",
+      "nutritionItems": [
+        { "label": "Energia", "value": "670 kcal / 1920 kJ" },
+        { "label": "Proteine", "value": "12 g" },
+        { "label": "Grassi", "value": "61 g" },
+        { "label": "Carboidrati", "value": "20 g" }
+      ],
+      "benefitsLabel": "Proprietà benefiche",
+      "benefitsText": "Contiene l'intero spettro di amminoacidi e oligoelementi (rame, cobalto, manganese, zinco). Ricco di arginina — importante per gli organismi in crescita. Consigliato a donne in gravidanza e bambini.",
+      "shelfLifeLabel": "Conservabilità",
+      "shelfLifeText": "12 mesi sigillato. Fino a 6 mesi dopo l'apertura a +2…+6 °C.",
+      "storageLabel": "Conservazione",
+      "storageText": "A +20 °C, umidità relativa non superiore al 70%.",
+      "packagingLabel": "Confezione",
+      "packagingText": "Sottovuoto — l'ossidazione è arrestata fino al momento dell'apertura.",
+      "weightLabel": "Peso netto",
+      "originLabel": "Origine",
+      "originText": "Taiga siberiana, regione di Tomsk, Russia.",
+      "cta": "Richiedi questo formato"
+    }
+  },
+  "about": {
+    "title": "12 fasi di pulizia e 6 livelli di controllo",
+    "lead": "Il nostro know-how ci permette di ottenere la migliore qualità dei pinoli in ogni fase — dalla cernita manuale al controllo radiometrico in laboratorio moderno.",
+    "pillars": [
+      {
+        "title": "Controllo dei luoghi di raccolta e della qualità",
+        "text": "Acquistiamo il raccolto da fornitori verificati della Siberia Occidentale e Orientale. La materia prima in ingresso supera controlli organolettici, rimozione di impurità meccaniche e di frutti danneggiati, controllo radiologico e biologico."
+      },
+      {
+        "title": "Lavorazione delicata",
+        "text": "Per preservare il massimo dei nutrienti e garantire lunga freschezza, utilizziamo tecnologie moderne di pulizia e trattamento termico, evitando di lavare i pinoli già puliti."
+      },
+      {
+        "title": "Attrezzature moderne",
+        "text": "La produzione è attrezzata per classificare i pinoli per calibro ed escludere anche le minime impurità estranee, garantendo lotti di qualità uniforme."
+      },
+      {
+        "title": "Stoccaggio accurato",
+        "text": "I magazzini mantengono temperatura, umidità, ventilazione e illuminazione controllate, nel pieno rispetto delle norme igieniche. I pinoli vengono poi confezionati sottovuoto — l'ossidazione è bloccata fino all'apertura, preservando freschezza e stabilità microbiologica per tutta la durata di conservazione."
+      }
+    ],
+    "aside": "Nel nostro assortimento, su richiesta, anche frutta secca selezionata dall'Uzbekistan."
+  },
+  "certificates": {
+    "title": "Qualità certificata, affidabile",
+    "subtitle": "Certificazioni ufficiali europee e russe — più HACCP, ISO 22000 e licenza di esportazione UE.",
+    "items": [
+      {
+        "title": "Certificato Organic (EU Euroleaf)",
+        "text": "La produzione della Siberian Eco-Factory ha ottenuto il Bio-Certificato europeo «Organic» per sei categorie di prodotti, inclusi i pinoli sgusciati. Il certificato garantisce che la materia prima, raccolta nell'area di Keninga (regione di Tomsk), contiene almeno il 95% di ingredienti coltivati secondo gli standard dell'agricoltura biodinamica. Contrassegnato dal logo verde EU Organic.",
+        "imageAlt": "Certificato EU Organic"
+      },
+      {
+        "title": "Certificato Organic (Roskachestvo)",
+        "text": "Certificazione biologica russa rilasciata da Roskachestvo — conferma la conformità agli standard nazionali biologici per i pinoli e i prodotti correlati a base di cedro.",
+        "imageAlt": "Certificato Organic russo"
+      }
+    ],
+    "footnote": "La produzione è inoltre conforme agli standard HACCP, certificata ISO 22000-2007 e dotata di licenza di esportazione UE n. 060RU20002005086."
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Scrivici — rispondiamo entro un giorno lavorativo.",
+    "details": "Raccontaci il tuo progetto — parleremo volentieri di volumi dalla partita pilota alla fornitura ricorrente nei mercati UE, confezioni private label, copie dei certificati e condizioni di spedizione.",
+    "topicsLabel": "Puoi chiederci di",
+    "topics": [
+      "Prezzi all'ingrosso e formati su pallet",
+      "Certificati biologici e licenza di esportazione UE",
+      "Consegna nel tuo paese / magazzino"
+    ],
+    "salesLabel": "Vendite UE — scrivi o chiama",
+    "name": "Nome",
+    "namePlaceholder": "Come ti chiami?",
+    "email": "Email",
+    "emailPlaceholder": "tuo@email.com",
+    "message": "Messaggio",
+    "messagePlaceholder": "Raccontaci cosa ti interessa",
+    "submit": "Invia richiesta",
+    "notBot": "Non sono un robot",
+    "sending": "Invio in corso…",
+    "success": "Grazie! Ti ricontatteremo a breve.",
+    "error": "Qualcosa è andato storto. Riprova, per favore.",
+    "botError": "Conferma di non essere un robot."
+  },
+  "footer": {
+    "tagline": "Pinoli siberiani naturali.",
+    "rights": "Tutti i diritti riservati.",
+    "sections": {
+      "nav": "Navigazione",
+      "contacts": "Contatti",
+      "social": "Seguici"
+    }
+  }
+}

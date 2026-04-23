@@ -1,36 +1,95 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Siberian Cedar — Landing Site
 
-## Getting Started
+Многоязычный лендинг «Сибирский кедр» — премиальные кедровые орехи из
+сибирской тайги для европейского рынка. Одностраничный сайт с
+скролл-анимированным hero, продуктовой модалкой, контактной формой и
+шестью локалями.
 
-First, run the development server:
+## Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- **Next.js 16** (App Router, React Server Components)
+- **React 19**
+- **Tailwind CSS 4** (CSS-native tokens через `@theme`)
+- **Motion** (`motion/react`) — скролл-прогресс, курсорный параллакс
+- **TypeScript**
+- i18n без сторонних библиотек — словари в `src/app/[lang]/dictionaries/*.json`
+
+## Фичи
+
+- **Hero-секция** со скролл-синхронизированной 100-кадровой анимацией
+  (canvas-based, preload). Сейчас временно заменена на статичную
+  фотографию-заглушку — см. `src/components/HeroPlaceholder.tsx`.
+- **Скролл-сторителлинг** — панели с glass-morphism, scroll-driven
+  opacity / y / scale, курсорный 3D-параллакс.
+- **Продуктовая модалка** — клик по карточке открывает полный паспорт
+  продукта: описание, состав, КБЖУ, срок годности, условия хранения,
+  упаковка, происхождение. Данные — с ecofactory.ru.
+- **Контактная форма** с honeypot и «I'm not a robot» — payload в
+  `/api/contact` логируется в сервер; email-провайдер подключается за
+  один шаг (см. комментарий в `route.ts`).
+- **6 локалей**: `en`, `de`, `it`, `fr`, `cs`, `ru` (переключатель в
+  хедере, SEO-метаданные локализованы).
+- Тёмная cedar-палитра, Playfair Display + Inter.
+
+## Структура
+
+```
+src/
+  app/
+    [lang]/
+      dictionaries/     # en/de/it/fr/cs/ru .json
+      dictionaries.ts   # typed loader
+      layout.tsx        # fonts + html lang + header/footer
+      page.tsx          # landing entry
+    api/contact/route.ts
+    globals.css         # Tailwind theme + glass-panel utilities
+  components/
+    HeroBackdrop.tsx    # 100-frame scroll animation (canvas)
+    HeroPlaceholder.tsx # static placeholder (active now)
+    Header.tsx, Footer.tsx, ScrollToTop.tsx
+    ProductModal.tsx
+    ScrollStory.tsx     # panels composition
+    panels/             # Intro / Journey / Packaging / About / Certificates / Contact
+  config/
+    i18n.ts             # locales list
+    site.ts             # sales contacts
+public/
+  hero-frames/          # frame-001.jpg … frame-100.jpg (7.6 MB)
+  hero-placeholder.jpg  # temporary hero background
+  images/packs/         # product photos (100 g / 500 g / 1 kg / 5 kg)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Локальная разработка
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
+npm run dev
+# http://localhost:3000  →  автоматический редирект на /en
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Маршруты локалей: `/en`, `/de`, `/it`, `/fr`, `/cs`, `/ru`.
 
-## Learn More
+## Возврат к видео в hero
 
-To learn more about Next.js, take a look at the following resources:
+Когда видео/новые кадры будут готовы, в
+`src/app/[lang]/page.tsx` поменяй две строчки импорта обратно:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```ts
+// было
+import HeroBackdrop from "@/components/HeroPlaceholder";
+// станет
+import HeroBackdrop from "@/components/HeroBackdrop";
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+`HeroBackdrop.tsx` и папка `public/hero-frames/` сохранены нетронутыми.
 
-## Deploy on Vercel
+## Контент-источники
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Ботанические и производственные данные: [ecofactory.ru](https://ecofactory.ru/catalog/pine-nuts/)
+- Сертификаты: EU Organic (Euroleaf), Роскачество, HACCP, ISO 22000
+- Лицензия на экспорт в ЕС: №060RU20002005086
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Деплой
+
+Проект готов к деплою на Vercel без дополнительных настроек. Env-переменные
+не требуются (email-провайдер пока не подключён — см. `route.ts`).

@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "title": "Siberian Cedar — pignons de cèdre sibérien premium de la taïga",
+    "description": "Siberian Cedar — pignons de cèdre écologiquement purs au cœur de la taïga sibérienne. Récoltés à la main, transformation éco, livraison directe."
+  },
+  "nav": {
+    "home": "Accueil",
+    "story": "À propos",
+    "products": "Nos produits",
+    "quality": "Qualité",
+    "documents": "Documents",
+    "contact": "Contact",
+    "cta": "Nous contacter"
+  },
+  "hero": {
+    "eyebrow": "Un produit naturel de Sibérie",
+    "title": "Pignons de cèdre premium — directement du cœur de la taïga",
+    "subtitle": "Découvrez le goût pur et naturel des pignons de cèdre, récoltés avec soin dans les forêts préservées de Sibérie.",
+    "cta": "Nous contacter",
+    "scroll": "En savoir plus"
+  },
+  "journey": {
+    "title": "De la taïga jusqu'à vous",
+    "subtitle": "Trois étapes honnêtes — sans raccourci, sans additif.",
+    "productionLabel": "À propos",
+    "productionText": "L'Eco-Fabrique «Siberian Cedar» est l'un des principaux transformateurs de pignons de cèdre et d'autres produits naturels en Russie, avec 24 ans d'activité dans le secteur. Membre de l'INC (International Nut and Dried Fruit Council) depuis 2022.",
+    "steps": [
+      {
+        "title": "Récolte sauvage",
+        "text": "Cueillis à la main dans la taïga sibérienne intacte, avec un profond respect pour la forêt."
+      },
+      {
+        "title": "Transformation écologique",
+        "text": "Notre Eco-Factory sibérienne utilise un séchage doux à basse température (jamais au-dessus de 39 °C), sans conservateurs."
+      },
+      {
+        "title": "Livraison dans toute l'Europe",
+        "text": "Nous expédions directement du producteur au client partout en Europe — sans intermédiaires, fraîcheur garantie."
+      }
+    ]
+  },
+  "packaging": {
+    "title": "Nos produits",
+    "subtitle": "Choisissez un format — de l'échantillon à la palette de gros.",
+    "requestInfo": "Demander des infos",
+    "highlights": "670 kcal / 100 g · conservation 12 mois · 100 % pignons décortiqués · emballage sous vide",
+    "items": [
+      {
+        "size": "100 g",
+        "label": "Pignons de cèdre décortiqués",
+        "text": "Idéal pour la dégustation et les premières commandes d'essai."
+      },
+      {
+        "size": "500 g",
+        "label": "Pignons de cèdre décortiqués",
+        "text": "Format idéal pour le commerce de détail et les coffrets cadeaux."
+      },
+      {
+        "size": "1 kg",
+        "label": "Pignons de cèdre décortiqués",
+        "text": "Meilleur rapport qualité-prix pour la HoReCa et les grossistes."
+      },
+      {
+        "size": "5 kg",
+        "label": "Pignons de cèdre — gros",
+        "text": "Format en gros pour importateurs, distributeurs et grands clients."
+      }
+    ],
+    "modal": {
+      "closeLabel": "Fermer",
+      "overviewLabel": "Description",
+      "overviewText": "Pignons de cèdre décortiqués frais de l'Éco-Fabrique « Siberian Cedar ». Récoltés dans les forêts écologiquement pures de Sibérie, loin des zones industrielles. Soumis à 12 étapes de nettoyage et de contrôle, y compris un contrôle radiologique en laboratoire moderne.",
+      "compositionLabel": "Ingrédients",
+      "compositionText": "100 % pignons de cèdre décortiqués — rien d'autre.",
+      "nutritionLabel": "Valeurs nutritionnelles pour 100 g",
+      "nutritionItems": [
+        { "label": "Énergie", "value": "670 kcal / 1920 kJ" },
+        { "label": "Protéines", "value": "12 g" },
+        { "label": "Lipides", "value": "61 g" },
+        { "label": "Glucides", "value": "20 g" }
+      ],
+      "benefitsLabel": "Propriétés bienfaisantes",
+      "benefitsText": "Contient l'ensemble des acides aminés et des oligo-éléments (cuivre, cobalt, manganèse, zinc). Riche en arginine — essentielle aux organismes en croissance. Recommandé aux femmes enceintes et aux enfants.",
+      "shelfLifeLabel": "Conservation",
+      "shelfLifeText": "12 mois sous vide. Jusqu'à 6 mois après ouverture à +2…+6 °C.",
+      "storageLabel": "Conditions de stockage",
+      "storageText": "À +20 °C, humidité relative de 70 % maximum.",
+      "packagingLabel": "Emballage",
+      "packagingText": "Sous vide — l'oxydation est arrêtée jusqu'à l'ouverture.",
+      "weightLabel": "Poids net",
+      "originLabel": "Origine",
+      "originText": "Taïga sibérienne, région de Tomsk, Russie.",
+      "cta": "Demander ce format"
+    }
+  },
+  "about": {
+    "title": "12 étapes de nettoyage et 6 niveaux de contrôle",
+    "lead": "Notre savoir-faire nous permet d'atteindre la meilleure qualité de pignons à chaque étape — du tri manuel à l'analyse radiométrique en laboratoire moderne.",
+    "pillars": [
+      {
+        "title": "Contrôle des zones de récolte et de la qualité",
+        "text": "Nous achetons la récolte à des fournisseurs vérifiés de Sibérie occidentale et orientale. La matière première entrante passe un contrôle organoleptique, l'élimination des impuretés mécaniques et des fruits abîmés, ainsi que des contrôles radiologique et biologique."
+      },
+      {
+        "title": "Transformation douce",
+        "text": "Pour préserver un maximum de nutriments et garantir une longue fraîcheur, nous utilisons des technologies modernes de nettoyage et de traitement thermique — sans jamais laver les pignons déjà nettoyés."
+      },
+      {
+        "title": "Équipement moderne",
+        "text": "La production est équipée pour classer les pignons par calibre et exclure même les plus petites impuretés, assurant des lots d'une qualité constante et élevée."
+      },
+      {
+        "title": "Stockage soigné",
+        "text": "Les entrepôts maintiennent une température, une humidité, une ventilation et un éclairage contrôlés, dans le strict respect des normes sanitaires. Les pignons sont ensuite conditionnés sous vide — l'oxydation est stoppée jusqu'à l'ouverture, préservant fraîcheur et stabilité microbiologique pendant toute la durée de conservation."
+      }
+    ],
+    "aside": "Notre gamme inclut également, sur demande, des fruits secs sélectionnés d'Ouzbékistan."
+  },
+  "certificates": {
+    "title": "Une qualité certifiée, digne de confiance",
+    "subtitle": "Certifications officielles européenne et russe — ainsi que HACCP, ISO 22000 et licence d'exportation UE.",
+    "items": [
+      {
+        "title": "Certificat Organic (Euroleaf UE)",
+        "text": "La production de la Siberian Eco-Factory détient le Bio-Certificat européen « Organic » pour six catégories de produits, y compris les pignons décortiqués. Le certificat garantit que la matière première, récoltée dans la zone de Keninga (région de Tomsk), contient au moins 95 % d'ingrédients issus de l'agriculture biodynamique. Marqué du logo vert « EU Organic ».",
+        "imageAlt": "Certificat EU Organic"
+      },
+      {
+        "title": "Certificat Organic (Roskatchestvo)",
+        "text": "Certification biologique russe délivrée par Roskatchestvo — elle atteste la conformité aux standards biologiques nationaux pour les pignons de cèdre et les produits associés.",
+        "imageAlt": "Certificat Organic russe"
+      }
+    ],
+    "footnote": "La production respecte également les normes HACCP, est certifiée ISO 22000-2007 et détient une licence d'exportation UE n°060RU20002005086."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Écrivez-nous — nous répondons sous un jour ouvré.",
+    "details": "Parlez-nous de votre projet — nous aborderons avec plaisir les volumes, du lot pilote à l'approvisionnement régulier sur les marchés UE, le conditionnement en marque propre, les copies de certificats et les conditions de livraison.",
+    "topicsLabel": "Les sujets les plus demandés",
+    "topics": [
+      "Prix de gros et formats sur palette",
+      "Certificats bio et licence d'export UE",
+      "Livraison vers votre pays / entrepôt"
+    ],
+    "salesLabel": "Ventes UE — écrivez ou appelez",
+    "name": "Nom",
+    "namePlaceholder": "Comment vous appeler ?",
+    "email": "E-mail",
+    "emailPlaceholder": "votre@email.com",
+    "message": "Message",
+    "messagePlaceholder": "Dites-nous ce qui vous intéresse",
+    "submit": "Envoyer la demande",
+    "notBot": "Je ne suis pas un robot",
+    "sending": "Envoi…",
+    "success": "Merci ! Nous vous recontactons rapidement.",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "botError": "Veuillez confirmer que vous n'êtes pas un robot."
+  },
+  "footer": {
+    "tagline": "Pignons de cèdre sibérien naturels.",
+    "rights": "Tous droits réservés.",
+    "sections": {
+      "nav": "Navigation",
+      "contacts": "Contact",
+      "social": "Suivez-nous"
+    }
+  }
+}

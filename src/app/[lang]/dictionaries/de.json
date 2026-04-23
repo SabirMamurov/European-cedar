@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "title": "Siberian Cedar — Premium-Zirbelnüsse aus der sibirischen Taiga",
+    "description": "Siberian Cedar — ökologisch reine Zirbelnüsse aus dem Herzen der sibirischen Taiga. Handverlesen, schonend verarbeitet, direkt geliefert."
+  },
+  "nav": {
+    "home": "Start",
+    "story": "Über uns",
+    "products": "Unsere Produkte",
+    "quality": "Qualität",
+    "documents": "Dokumente",
+    "contact": "Kontakt",
+    "cta": "Jetzt anfragen"
+  },
+  "hero": {
+    "eyebrow": "Naturprodukt aus Sibirien",
+    "title": "Premium-Zirbelnüsse — direkt aus dem Herzen der Taiga",
+    "subtitle": "Erleben Sie den reinen, natürlichen Geschmack von Zirbelnüssen, sorgfältig gesammelt in unberührten sibirischen Wäldern.",
+    "cta": "Jetzt anfragen",
+    "scroll": "Mehr erfahren"
+  },
+  "journey": {
+    "title": "Der Weg von der Taiga zu Ihnen",
+    "subtitle": "Drei ehrliche Schritte — ohne Abkürzungen, ohne Zusätze.",
+    "productionLabel": "Über uns",
+    "productionText": "Die Öko-Fabrik „Sibirischer Zeder\" ist einer der führenden Verarbeiter von Zirbelnüssen und anderen Naturprodukten in Russland und seit 24 Jahren in der Branche tätig. Mitglied des INC (International Nut and Dried Fruit Council) seit 2022.",
+    "steps": [
+      {
+        "title": "Wildsammlung",
+        "text": "Handgesammelt in der unberührten sibirischen Taiga — mit tiefem Respekt vor der Natur."
+      },
+      {
+        "title": "Öko-Verarbeitung",
+        "text": "Unsere eigene „Sibirische Öko-Fabrik“. Schonende Trocknung bei maximal 39 °C und null Konservierungsstoffe."
+      },
+      {
+        "title": "Versand in ganz Europa",
+        "text": "Wir versenden direkt vom Hersteller an Kunden in ganz Europa — ohne Zwischenhändler und mit Frischegarantie."
+      }
+    ]
+  },
+  "packaging": {
+    "title": "Unsere Produkte",
+    "subtitle": "Wählen Sie das passende Format — von der Probe bis zur Großbestellung.",
+    "requestInfo": "Information anfragen",
+    "highlights": "670 kcal / 100 g · 12 Monate haltbar · 100 % Zirbelnusskerne · vakuumverpackt",
+    "items": [
+      {
+        "size": "100 g",
+        "label": "Zirbelnusskerne",
+        "text": "Ideal für Verkostung und erste Testbestellung."
+      },
+      {
+        "size": "500 g",
+        "label": "Zirbelnusskerne",
+        "text": "Optimale Größe für Einzelhandel und Geschenkpakete."
+      },
+      {
+        "size": "1 kg",
+        "label": "Zirbelnusskerne",
+        "text": "Bestes Preis-Leistungs-Verhältnis für HoReCa und Großkunden."
+      },
+      {
+        "size": "5 kg",
+        "label": "Zirbelnusskerne — Großhandel",
+        "text": "Großformat für Importeure, Distributoren und Großabnehmer."
+      }
+    ],
+    "modal": {
+      "closeLabel": "Schließen",
+      "overviewLabel": "Beschreibung",
+      "overviewText": "Frische, geschälte Zirbelnusskerne der Eco-Factory „Siberian Cedar“. Geerntet in den ökologisch reinen Wäldern Sibiriens, fern von Industriegebieten. Durchläuft 12 Reinigungs- und Prüfstufen, inklusive radiometrischer Kontrolle im modernen Labor.",
+      "compositionLabel": "Zutaten",
+      "compositionText": "100 % Zirbelnusskerne — nichts weiter.",
+      "nutritionLabel": "Nährwert pro 100 g",
+      "nutritionItems": [
+        { "label": "Brennwert", "value": "670 kcal / 1920 kJ" },
+        { "label": "Eiweiß", "value": "12 g" },
+        { "label": "Fett", "value": "61 g" },
+        { "label": "Kohlenhydrate", "value": "20 g" }
+      ],
+      "benefitsLabel": "Wertvolle Eigenschaften",
+      "benefitsText": "Enthält das volle Spektrum an Aminosäuren und Spurenelementen (Kupfer, Kobalt, Mangan, Zink). Reich an Arginin — wichtig für heranwachsende Organismen. Empfohlen für Schwangere und Kinder.",
+      "shelfLifeLabel": "Haltbarkeit",
+      "shelfLifeText": "12 Monate ungeöffnet. Bis zu 6 Monate nach dem Öffnen bei +2…+6 °C.",
+      "storageLabel": "Lagerung",
+      "storageText": "Bei +20 °C, relative Luftfeuchtigkeit höchstens 70 %.",
+      "packagingLabel": "Verpackung",
+      "packagingText": "Vakuumverpackt — die Oxidation wird bis zum Öffnen gestoppt.",
+      "weightLabel": "Nettogewicht",
+      "originLabel": "Herkunft",
+      "originText": "Sibirische Taiga, Gebiet Tomsk, Russland.",
+      "cta": "Dieses Format anfragen"
+    }
+  },
+  "about": {
+    "title": "12 Reinigungsstufen und 6 Kontrollstufen",
+    "lead": "Fachwissen sorgt für höchste Kernqualität bei jedem Schritt — von der Handverlese bis zur radiometrischen Analyse im modernen Labor.",
+    "pillars": [
+      {
+        "title": "Erntegebiets- und Qualitätskontrolle",
+        "text": "Wir beziehen Rohware von geprüften Lieferanten in West- und Ostsibirien. Der Wareneingang durchläuft organoleptische Prüfung, Entfernung mechanischer Verunreinigungen und beschädigter Kerne sowie eine radiologische und biologische Kontrolle."
+      },
+      {
+        "title": "Schonende Verarbeitung",
+        "text": "Um ein Maximum an Nährstoffen zu erhalten und lange Frische zu garantieren, setzen wir moderne Reinigungs- und Wärmeverfahren ein — gereinigte Kerne werden nie nachgewaschen."
+      },
+      {
+        "title": "Moderne Anlagen",
+        "text": "Die Produktion ist so ausgestattet, dass Kerne nach Kaliber sortiert werden und selbst kleinste Fremdpartikel ausgeschlossen sind."
+      },
+      {
+        "title": "Sorgfältige Lagerung",
+        "text": "Die Lager halten kontrollierte Temperatur, Luftfeuchtigkeit, Belüftung und Beleuchtung bei voller Einhaltung hygienischer Normen ein. Anschließend werden die Kerne vakuumverpackt — die Oxidation wird bis zum Öffnen gestoppt, Frische und mikrobiologische Stabilität bleiben über die gesamte Haltbarkeit erhalten."
+      }
+    ],
+    "aside": "Auf Anfrage bieten wir auch ausgewählte Trockenfrüchte aus Usbekistan."
+  },
+  "certificates": {
+    "title": "Zertifizierte Qualität, der Sie vertrauen können",
+    "subtitle": "Offizielle europäische und russische Bio-Zertifikate — zusätzlich HACCP, ISO 22000 und EU-Exportlizenz.",
+    "items": [
+      {
+        "title": "Organic-Zertifikat (EU Euroleaf)",
+        "text": "Die Produktion der Sibirischen Öko-Fabrik ist mit dem europäischen Bio-Zertifikat „Organic“ für sechs Produktkategorien ausgezeichnet, einschließlich geschälter Zirbelnusskerne. Das Zertifikat garantiert, dass die im Gebiet Keninga (Region Tomsk) gesammelte Rohware zu mindestens 95 % aus biodynamischem Anbau stammt. Markiert mit dem grünen EU-Bio-Blatt.",
+        "imageAlt": "EU-Bio-Zertifikat"
+      },
+      {
+        "title": "Organic-Zertifikat (Roskachestvo)",
+        "text": "Russisches Bio-Zertifikat von Roskachestvo — bestätigt die Konformität mit nationalen Bio-Standards für Zirbelnusskerne und verwandte Zedernprodukte.",
+        "imageAlt": "Russisches Bio-Zertifikat"
+      }
+    ],
+    "footnote": "Die Produktion erfüllt auch die HACCP-Standards für Lebensmittelsicherheit, ist nach ISO 22000-2007 zertifiziert und verfügt über eine EU-Exportlizenz Nr. 060RU20002005086."
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Schreiben Sie uns — wir antworten innerhalb eines Werktages.",
+    "details": "Erzählen Sie uns von Ihrem Projekt — wir besprechen gern Mengen von der Probecharge bis zur regelmäßigen Belieferung in der EU, Eigenmarken-Verpackung, Zertifikatskopien und Lieferbedingungen.",
+    "topicsLabel": "Worüber wir gern sprechen",
+    "topics": [
+      "Großhandelspreise & Palettenformate",
+      "Bio-Zertifikate & EU-Exportlizenz",
+      "Lieferung in Ihr Land / an Ihr Lager"
+    ],
+    "salesLabel": "EU-Vertrieb — schreiben oder anrufen",
+    "name": "Name",
+    "namePlaceholder": "Wie dürfen wir Sie nennen?",
+    "email": "E-Mail",
+    "emailPlaceholder": "ihre@email.de",
+    "message": "Nachricht",
+    "messagePlaceholder": "Worum geht es?",
+    "submit": "Anfrage senden",
+    "notBot": "Ich bin kein Roboter",
+    "sending": "Wird gesendet…",
+    "success": "Danke! Wir melden uns in Kürze bei Ihnen.",
+    "error": "Senden fehlgeschlagen. Bitte erneut versuchen.",
+    "botError": "Bitte bestätigen Sie, dass Sie kein Roboter sind."
+  },
+  "footer": {
+    "tagline": "Natürliche sibirische Zirbelnüsse.",
+    "rights": "Alle Rechte vorbehalten.",
+    "sections": {
+      "nav": "Navigation",
+      "contacts": "Kontakt",
+      "social": "Folgen Sie uns"
+    }
+  }
+}

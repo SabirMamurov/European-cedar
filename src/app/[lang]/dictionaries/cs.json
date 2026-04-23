@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "title": "Siberian Cedar — prémiové sibiřské piniové ořechy z tajgy",
+    "description": "Siberian Cedar — ekologicky čisté piniové ořechy ze srdce sibiřské tajgy. Ruční sběr, eko-zpracování, přímé dodávky."
+  },
+  "nav": {
+    "home": "Domů",
+    "story": "O nás",
+    "products": "Naše produkty",
+    "quality": "Kvalita",
+    "documents": "Dokumenty",
+    "contact": "Kontakt",
+    "cta": "Nezávazná poptávka"
+  },
+  "hero": {
+    "eyebrow": "Přírodní produkt ze Sibiře",
+    "title": "Prémiové piniové ořechy — přímo ze srdce tajgy",
+    "subtitle": "Objevte čistou, přirozenou chuť piniových ořechů pečlivě sbíraných v ekologicky čistých oblastech Sibiře.",
+    "cta": "Nezávazná poptávka",
+    "scroll": "Zjistit více"
+  },
+  "journey": {
+    "title": "Cesta z tajgy až k vám",
+    "subtitle": "Tři poctivé kroky — bez spěchu a bez zbytečných přísad.",
+    "productionLabel": "O nás",
+    "productionText": "Eko-továrna „Sibiřský cedr\" je jedním z předních zpracovatelů piniových jader a dalších přírodních produktů v Rusku, s 24 lety činnosti v oboru. Členem INC (International Nut and Dried Fruit Council) od roku 2022.",
+    "steps": [
+      {
+        "title": "Divoký sběr",
+        "text": "Ořechy se sbírají ručně v nedotčené sibiřské tajze — s respektem k přírodě."
+      },
+      {
+        "title": "Eko-zpracování",
+        "text": "Vlastní „Sibiřská eko-továrna“. Šetrné sušení při maximálně 39 °C a nulové konzervanty."
+      },
+      {
+        "title": "Doručení po celé Evropě",
+        "text": "Posíláme objednávky přímo od výrobce zákazníkům po celé Evropě — bez mezičlánků a se zárukou čerstvosti."
+      }
+    ]
+  },
+  "packaging": {
+    "title": "Naše produkty",
+    "subtitle": "Vyberte si formát — od vzorku až po velkoobchodní dodávku.",
+    "requestInfo": "Vyžádat informace",
+    "highlights": "670 kcal / 100 g · trvanlivost 12 měsíců · 100 % loupaná jádra · vakuové balení",
+    "items": [
+      {
+        "size": "100 g",
+        "label": "Loupané piniové jádro",
+        "text": "Ideální pro ochutnávku a první testovací objednávku."
+      },
+      {
+        "size": "500 g",
+        "label": "Loupané piniové jádro",
+        "text": "Optimální velikost pro maloobchod a dárkové sady."
+      },
+      {
+        "size": "1 kg",
+        "label": "Loupané piniové jádro",
+        "text": "Výhodný formát pro HoReCa a velkoobchodní zákazníky."
+      },
+      {
+        "size": "5 kg",
+        "label": "Loupané piniové jádro — velkoobchod",
+        "text": "Velkoformát pro dovozce, distributory a velkoobchodní klienty."
+      }
+    ],
+    "modal": {
+      "closeLabel": "Zavřít",
+      "overviewLabel": "Popis",
+      "overviewText": "Čerstvé loupané piniové jádro z Eko-továrny „Siberian Cedar“. Sbíráno v ekologicky čistých sibiřských lesích, daleko od průmyslových oblastí. Prochází 12 stupni čištění a kontroly včetně radiometrického testu v moderní laboratoři.",
+      "compositionLabel": "Složení",
+      "compositionText": "100% jádro piniového oříšku — nic dalšího.",
+      "nutritionLabel": "Nutriční hodnoty na 100 g",
+      "nutritionItems": [
+        { "label": "Energie", "value": "670 kcal / 1920 kJ" },
+        { "label": "Bílkoviny", "value": "12 g" },
+        { "label": "Tuky", "value": "61 g" },
+        { "label": "Sacharidy", "value": "20 g" }
+      ],
+      "benefitsLabel": "Prospěšné vlastnosti",
+      "benefitsText": "Obsahuje kompletní škálu aminokyselin a stopových prvků (měď, kobalt, mangan, zinek). Bohaté na arginin — důležitý pro rostoucí organismus. Doporučeno těhotným ženám a dětem.",
+      "shelfLifeLabel": "Trvanlivost",
+      "shelfLifeText": "12 měsíců v neporušeném balení. Až 6 měsíců po otevření při +2…+6 °C.",
+      "storageLabel": "Skladování",
+      "storageText": "Při +20 °C, relativní vlhkost nejvýše 70 %.",
+      "packagingLabel": "Balení",
+      "packagingText": "Vakuově baleno — oxidace je zastavena až do okamžiku otevření.",
+      "weightLabel": "Čistá hmotnost",
+      "originLabel": "Původ",
+      "originText": "Sibiřská tajga, Tomská oblast, Rusko.",
+      "cta": "Poptat tento formát"
+    }
+  },
+  "about": {
+    "title": "12 stupňů čištění a 6 úrovní kontroly",
+    "lead": "Odborné know-how nám dovoluje dosáhnout nejvyšší kvality jader v každém kroku — od ruční přebírky až po radiometrickou analýzu v moderní laboratoři.",
+    "pillars": [
+      {
+        "title": "Kontrola míst sběru a kvality",
+        "text": "Suroviny nakupujeme od prověřených dodavatelů v Západní a Východní Sibiři. Vstupní surovina prochází organoleptickou kontrolou, odstraněním mechanických nečistot a poškozených jader, a radiačně-biologickou kontrolou."
+      },
+      {
+        "title": "Šetrné zpracování",
+        "text": "Abychom zachovali maximum živin a zajistili jádrům dlouhou čerstvost, používáme moderní technologie čištění a tepelného zpracování — již vyčištěná jádra nikdy neomýváme."
+      },
+      {
+        "title": "Moderní vybavení",
+        "text": "Výroba je vybavena stroji, které umožňují třídit jádra podle kalibru a vyloučit i nejmenší cizí příměsi, takže šarže jsou rovnoměrně vysoké kvality."
+      },
+      {
+        "title": "Šetrné skladování",
+        "text": "Sklady udržují kontrolovanou teplotu, vlhkost, větrání a osvětlení a splňují hygienické normy. Jádra se následně vakuově balí — oxidace je zastavena až do otevření, čerstvost a mikrobiologická stabilita se uchovávají po celou dobu trvanlivosti."
+      }
+    ],
+    "aside": "V naší nabídce najdete na vyžádání i kvalitní sušené ovoce z Uzbekistánu."
+  },
+  "certificates": {
+    "title": "Certifikovaná kvalita, na kterou se můžete spolehnout",
+    "subtitle": "Oficiální evropské a ruské bio-certifikáty — doplněné o HACCP, ISO 22000 a exportní licenci do EU.",
+    "items": [
+      {
+        "title": "Bio-certifikát ORGANIC (EU Euroleaf)",
+        "text": "Produkce „Sibiřské eko-továrny“ získala evropský bio-certifikát „Organic“ pro šest produktových kategorií včetně loupaných piniových jader. Certifikát zaručuje, že suroviny sbírané v oblasti Keninga v Tomské oblasti obsahují alespoň 95 % složek vypěstovaných podle standardů biodynamického zemědělství. Označeno zeleným listem EU Organic.",
+        "imageAlt": "Certifikát EU Organic"
+      },
+      {
+        "title": "Bio-certifikát (Roskačestvo)",
+        "text": "Ruský bio-certifikát vydaný agenturou Roskačestvo — potvrzuje soulad s národními bio-standardy pro piniová jádra a související cedrové produkty.",
+        "imageAlt": "Ruský certifikát Organic"
+      }
+    ],
+    "footnote": "Výroba splňuje také standardy HACCP, je certifikována podle ISO 22000-2007 a má exportní licenci do EU č. 060RU20002005086."
+  },
+  "contact": {
+    "title": "Ozvěte se nám",
+    "subtitle": "Napište nám a my odpovíme do jednoho pracovního dne.",
+    "details": "Řekněte nám o vašem projektu — rádi probereme objemy od pilotní dávky po pravidelné dodávky v EU, balení pod privátní značkou, kopie certifikátů a dodací podmínky.",
+    "topicsLabel": "S čím se na nás obracejí nejčastěji",
+    "topics": [
+      "Velkoobchodní ceny a paletové formáty",
+      "Bio-certifikáty a exportní licence do EU",
+      "Doprava do vaší země / do vašeho skladu"
+    ],
+    "salesLabel": "Prodej v EU — napište nebo zavolejte",
+    "name": "Jméno",
+    "namePlaceholder": "Jak vám máme říkat",
+    "email": "E-mail",
+    "emailPlaceholder": "vas@email.com",
+    "message": "Zpráva",
+    "messagePlaceholder": "Napište, co vás zajímá",
+    "submit": "Odeslat poptávku",
+    "notBot": "Nejsem robot",
+    "sending": "Odesíláme…",
+    "success": "Děkujeme! Brzy se vám ozveme.",
+    "error": "Odeslání se nezdařilo. Zkuste to prosím znovu.",
+    "botError": "Potvrďte prosím, že nejste robot."
+  },
+  "footer": {
+    "tagline": "Přírodní sibiřské piniové ořechy.",
+    "rights": "Všechna práva vyhrazena.",
+    "sections": {
+      "nav": "Navigace",
+      "contacts": "Kontakt",
+      "social": "Sledujte nás"
+    }
+  }
+}
