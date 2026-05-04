@@ -23,7 +23,7 @@
     "title": "Dal cuore della taiga fino a te",
     "subtitle": "Tre passi onesti — senza scorciatoie, senza aggiunte.",
     "productionLabel": "Chi siamo",
-    "productionText": "La Eco-Fabbrica «Siberian Cedar» è uno dei principali trasformatori di pinoli e altri prodotti naturali in Russia, con 24 anni di attività nel settore. Membro dell'INC (International Nut and Dried Fruit Council) dal 2022.",
+    "productionText": "La Eco-Fabbrica «Siberian Cedar» è uno dei principali trasformatori di pinoli e altri prodotti naturali, con 24 anni di attività nel settore. Membro dell'INC (International Nut and Dried Fruit Council) dal 2022.",
     "steps": [
       {
         "title": "Raccolta selvatica",
@@ -89,7 +89,7 @@
       "packagingText": "Sottovuoto — l'ossidazione è arrestata fino al momento dell'apertura.",
       "weightLabel": "Peso netto",
       "originLabel": "Origine",
-      "originText": "Taiga siberiana, regione di Tomsk, Russia.",
+      "originText": "Taiga siberiana.",
       "cta": "Richiedi questo formato"
     }
   },
@@ -118,17 +118,12 @@
   },
   "certificates": {
     "title": "Qualità certificata, affidabile",
-    "subtitle": "Certificazioni ufficiali europee e russe — più HACCP, ISO 22000 e licenza di esportazione UE.",
+    "subtitle": "Certificazioni ufficiali europee — più HACCP, ISO 22000 e licenza di esportazione UE.",
     "items": [
       {
         "title": "Certificato Organic (EU Euroleaf)",
-        "text": "La produzione della Siberian Eco-Factory ha ottenuto il Bio-Certificato europeo «Organic» per sei categorie di prodotti, inclusi i pinoli sgusciati. Il certificato garantisce che la materia prima, raccolta nell'area di Keninga (regione di Tomsk), contiene almeno il 95% di ingredienti coltivati secondo gli standard dell'agricoltura biodinamica. Contrassegnato dal logo verde EU Organic.",
+        "text": "La produzione della Siberian Eco-Factory ha ottenuto il Bio-Certificato europeo «Organic» per sei categorie di prodotti, inclusi i pinoli sgusciati. Il certificato garantisce che la materia prima, raccolta nella taiga siberiana, contiene almeno il 95% di ingredienti coltivati secondo gli standard dell'agricoltura biodinamica. Contrassegnato dal logo verde EU Organic.",
         "imageAlt": "Certificato EU Organic"
-      },
-      {
-        "title": "Certificato Organic (Roskachestvo)",
-        "text": "Certificazione biologica russa rilasciata da Roskachestvo — conferma la conformità agli standard nazionali biologici per i pinoli e i prodotti correlati a base di cedro.",
-        "imageAlt": "Certificato Organic russo"
       }
     ],
     "footnote": "La produzione è inoltre conforme agli standard HACCP, certificata ISO 22000-2007 e dotata di licenza di esportazione UE n. 060RU20002005086."

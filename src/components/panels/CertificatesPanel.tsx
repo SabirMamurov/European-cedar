@@ -12,16 +12,11 @@ import type { Dictionary } from "@/app/[lang]/dictionaries";
  *
  * Item order (in dict.certificates.items):
  *   0 → EU Organic (Euroleaf / DAkkS / ECOGLOBE document)
- *   1 → Roskachestvo (Russian national system of quality)
  */
 const certAssets = [
   {
     document: "/images/certificates/eu-ecoglobe-document.jpg",
     logo: "/images/certificates/eu-bio-label.jpg",
-  },
-  {
-    document: "/images/certificates/ru-roskachestvo-document.jpg",
-    logo: "/images/certificates/organic-ru.jpg",
   },
 ];
 
@@ -37,7 +32,7 @@ export default function CertificatesPanel({ dict }: { dict: Dictionary }) {
         </p>
       </div>
 
-      <div className="grid md:grid-cols-2 gap-6 md:gap-10">
+      <div className="grid md:grid-cols-1 gap-6 md:gap-10 max-w-2xl mx-auto">
         {dict.certificates.items.map((item, i) => {
           const asset = certAssets[i] ?? certAssets[0];
           return (

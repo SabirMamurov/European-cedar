@@ -1,24 +1,6 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
-import { defaultLocale, isLocale, locales } from "@/config/i18n";
-
-function pickLocale(acceptLanguage: string | null): string {
-  if (!acceptLanguage) return defaultLocale;
-  const ordered = acceptLanguage
-    .split(",")
-    .map((part) => {
-      const [tag, q = "q=1"] = part.trim().split(";");
-      const quality = Number.parseFloat(q.replace("q=", "")) || 0;
-      return { tag: tag.toLowerCase(), quality };
-    })
-    .sort((a, b) => b.quality - a.quality);
-
-  for (const { tag } of ordered) {
-    const base = tag.split("-")[0];
-    if (isLocale(base)) return base;
-  }
-  return defaultLocale;
-}
+import { defaultLocale, locales } from "@/config/i18n";
 
 export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
@@ -28,9 +10,10 @@ export function proxy(request: NextRequest) {
   );
   if (hasLocale) return;
 
-  const locale = pickLocale(request.headers.get("accept-language"));
+  // Always land on the default locale (English). Users can switch via the
+  // header language picker; we no longer auto-detect from Accept-Language.
   const url = request.nextUrl.clone();
-  url.pathname = `/${locale}${pathname === "/" ? "" : pathname}`;
+  url.pathname = `/${defaultLocale}${pathname === "/" ? "" : pathname}`;
   return NextResponse.redirect(url);
 }
 

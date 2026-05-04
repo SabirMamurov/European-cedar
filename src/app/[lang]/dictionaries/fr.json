@@ -23,7 +23,7 @@
     "title": "De la taïga jusqu'à vous",
     "subtitle": "Trois étapes honnêtes — sans raccourci, sans additif.",
     "productionLabel": "À propos",
-    "productionText": "L'Eco-Fabrique «Siberian Cedar» est l'un des principaux transformateurs de pignons de cèdre et d'autres produits naturels en Russie, avec 24 ans d'activité dans le secteur. Membre de l'INC (International Nut and Dried Fruit Council) depuis 2022.",
+    "productionText": "L'Eco-Fabrique «Siberian Cedar» est l'un des principaux transformateurs de pignons de cèdre et d'autres produits naturels, avec 24 ans d'activité dans le secteur. Membre de l'INC (International Nut and Dried Fruit Council) depuis 2022.",
     "steps": [
       {
         "title": "Récolte sauvage",
@@ -89,7 +89,7 @@
       "packagingText": "Sous vide — l'oxydation est arrêtée jusqu'à l'ouverture.",
       "weightLabel": "Poids net",
       "originLabel": "Origine",
-      "originText": "Taïga sibérienne, région de Tomsk, Russie.",
+      "originText": "Taïga sibérienne.",
       "cta": "Demander ce format"
     }
   },
@@ -118,17 +118,12 @@
   },
   "certificates": {
     "title": "Une qualité certifiée, digne de confiance",
-    "subtitle": "Certifications officielles européenne et russe — ainsi que HACCP, ISO 22000 et licence d'exportation UE.",
+    "subtitle": "Certifications européennes officielles — ainsi que HACCP, ISO 22000 et licence d'exportation UE.",
     "items": [
       {
         "title": "Certificat Organic (Euroleaf UE)",
-        "text": "La production de la Siberian Eco-Factory détient le Bio-Certificat européen « Organic » pour six catégories de produits, y compris les pignons décortiqués. Le certificat garantit que la matière première, récoltée dans la zone de Keninga (région de Tomsk), contient au moins 95 % d'ingrédients issus de l'agriculture biodynamique. Marqué du logo vert « EU Organic ».",
+        "text": "La production de la Siberian Eco-Factory détient le Bio-Certificat européen « Organic » pour six catégories de produits, y compris les pignons décortiqués. Le certificat garantit que la matière première, récoltée dans la taïga sibérienne, contient au moins 95 % d'ingrédients issus de l'agriculture biodynamique. Marqué du logo vert « EU Organic ».",
         "imageAlt": "Certificat EU Organic"
-      },
-      {
-        "title": "Certificat Organic (Roskatchestvo)",
-        "text": "Certification biologique russe délivrée par Roskatchestvo — elle atteste la conformité aux standards biologiques nationaux pour les pignons de cèdre et les produits associés.",
-        "imageAlt": "Certificat Organic russe"
       }
     ],
     "footnote": "La production respecte également les normes HACCP, est certifiée ISO 22000-2007 et détient une licence d'exportation UE n°060RU20002005086."

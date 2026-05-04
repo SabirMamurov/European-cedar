@@ -23,7 +23,7 @@
     "title": "Our Journey from the Taiga to You",
     "subtitle": "Three honest steps — no shortcuts, no extras.",
     "productionLabel": "About Us",
-    "productionText": "The Siberian Cedar Eco-Factory is one of Russia's leading processors of pine nut kernels and other natural products, with 24 years in the industry. Member of the INC (International Nut and Dried Fruit Council) since 2022.",
+    "productionText": "The Siberian Cedar Eco-Factory is a leading processor of pine nut kernels and other natural products, with 24 years in the industry. Member of the INC (International Nut and Dried Fruit Council) since 2022.",
     "steps": [
       {
         "title": "Wild Harvest",
@@ -89,7 +89,7 @@
       "packagingText": "Vacuum-sealed — oxidation is halted until the moment you open it.",
       "weightLabel": "Net weight",
       "originLabel": "Origin",
-      "originText": "Siberian taiga, Tomsk region, Russia.",
+      "originText": "Siberian taiga.",
       "cta": "Enquire about this size"
     }
   },
@@ -118,17 +118,12 @@
   },
   "certificates": {
     "title": "Certified quality you can trust",
-    "subtitle": "Official certifications from European and Russian authorities — plus HACCP, ISO 22000 and an EU export licence.",
+    "subtitle": "Official European certifications — plus HACCP, ISO 22000 and an EU export licence.",
     "items": [
       {
         "title": "Organic Certificate (EU Euroleaf)",
-        "text": "The Siberian Eco-Factory production holds the European Bio-Certificate «Organic» for six product categories, including shelled pine nut kernels. The certificate guarantees that the produce — gathered in the Keninga area of the Tomsk region — contains at least 95% ingredients grown in line with biodynamic-farming standards. Marked with the green-leaf EU Organic logo.",
+        "text": "The Siberian Eco-Factory production holds the European Bio-Certificate «Organic» for six product categories, including shelled pine nut kernels. The certificate guarantees that the produce — gathered in the Siberian taiga — contains at least 95% ingredients grown in line with biodynamic-farming standards. Marked with the green-leaf EU Organic logo.",
         "imageAlt": "EU Organic certificate"
-      },
-      {
-        "title": "Organic Certificate (Roskachestvo)",
-        "text": "Russian organic certification issued by Roskachestvo, confirming compliance with national organic standards for pine nut kernels and related cedar products.",
-        "imageAlt": "Russian Organic certificate"
       }
     ],
     "footnote": "The production also complies with HACCP food-safety standards, is certified under ISO 22000-2007, and holds an EU export licence №060RU20002005086."

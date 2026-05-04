@@ -23,7 +23,7 @@
     "title": "Der Weg von der Taiga zu Ihnen",
     "subtitle": "Drei ehrliche Schritte — ohne Abkürzungen, ohne Zusätze.",
     "productionLabel": "Über uns",
-    "productionText": "Die Öko-Fabrik „Sibirischer Zeder\" ist einer der führenden Verarbeiter von Zirbelnüssen und anderen Naturprodukten in Russland und seit 24 Jahren in der Branche tätig. Mitglied des INC (International Nut and Dried Fruit Council) seit 2022.",
+    "productionText": "Die Öko-Fabrik „Sibirischer Zeder\" ist einer der führenden Verarbeiter von Zirbelnüssen und anderen Naturprodukten und seit 24 Jahren in der Branche tätig. Mitglied des INC (International Nut and Dried Fruit Council) seit 2022.",
     "steps": [
       {
         "title": "Wildsammlung",
@@ -89,7 +89,7 @@
       "packagingText": "Vakuumverpackt — die Oxidation wird bis zum Öffnen gestoppt.",
       "weightLabel": "Nettogewicht",
       "originLabel": "Herkunft",
-      "originText": "Sibirische Taiga, Gebiet Tomsk, Russland.",
+      "originText": "Sibirische Taiga.",
       "cta": "Dieses Format anfragen"
     }
   },
@@ -118,17 +118,12 @@
   },
   "certificates": {
     "title": "Zertifizierte Qualität, der Sie vertrauen können",
-    "subtitle": "Offizielle europäische und russische Bio-Zertifikate — zusätzlich HACCP, ISO 22000 und EU-Exportlizenz.",
+    "subtitle": "Offizielle europäische Bio-Zertifikate — zusätzlich HACCP, ISO 22000 und EU-Exportlizenz.",
     "items": [
       {
         "title": "Organic-Zertifikat (EU Euroleaf)",
-        "text": "Die Produktion der Sibirischen Öko-Fabrik ist mit dem europäischen Bio-Zertifikat „Organic“ für sechs Produktkategorien ausgezeichnet, einschließlich geschälter Zirbelnusskerne. Das Zertifikat garantiert, dass die im Gebiet Keninga (Region Tomsk) gesammelte Rohware zu mindestens 95 % aus biodynamischem Anbau stammt. Markiert mit dem grünen EU-Bio-Blatt.",
+        "text": "Die Produktion der Sibirischen Öko-Fabrik ist mit dem europäischen Bio-Zertifikat „Organic“ für sechs Produktkategorien ausgezeichnet, einschließlich geschälter Zirbelnusskerne. Das Zertifikat garantiert, dass die in der sibirischen Taiga gesammelte Rohware zu mindestens 95 % aus biodynamischem Anbau stammt. Markiert mit dem grünen EU-Bio-Blatt.",
         "imageAlt": "EU-Bio-Zertifikat"
-      },
-      {
-        "title": "Organic-Zertifikat (Roskachestvo)",
-        "text": "Russisches Bio-Zertifikat von Roskachestvo — bestätigt die Konformität mit nationalen Bio-Standards für Zirbelnusskerne und verwandte Zedernprodukte.",
-        "imageAlt": "Russisches Bio-Zertifikat"
       }
     ],
     "footnote": "Die Produktion erfüllt auch die HACCP-Standards für Lebensmittelsicherheit, ist nach ISO 22000-2007 zertifiziert und verfügt über eine EU-Exportlizenz Nr. 060RU20002005086."
