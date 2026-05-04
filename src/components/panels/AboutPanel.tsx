@@ -8,7 +8,7 @@ const pillarImages = [
   "/images/quality/harvest-control.jpg",
   "/images/quality/kernel-closeup.jpg",
   "/images/quality/modern-equipment.jpg",
-  "/images/quality/reliable-packaging.jpg",
+  "/images/quality/careful-storage.jpg",
   "/images/quality/vacuum-pack.jpg",
 ];
 
