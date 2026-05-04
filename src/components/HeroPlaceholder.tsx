@@ -91,7 +91,7 @@ export default function HeroPlaceholder() {
         }
       >
         <Image
-          src="/hero-placeholder.jpg"
+          src="/hero-placeholder.png"
           alt=""
           fill
           priority
