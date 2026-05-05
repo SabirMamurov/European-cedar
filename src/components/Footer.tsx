@@ -31,7 +31,7 @@ export default function Footer({
             {dict.footer.tagline}
           </p>
           <p className="text-xs text-white/40 max-w-xs leading-relaxed">
-            © {year} {siteConfig.brand.legalEntity}. {dict.footer.rights}
+            © {year} {dict.footer.legalName}. {dict.footer.rights}
           </p>
         </div>
 
