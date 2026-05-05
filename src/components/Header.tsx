@@ -1,9 +1,9 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import LanguageSwitcher from "./LanguageSwitcher";
+import Logo from "./Logo";
 import type { Locale } from "@/config/i18n";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
 
@@ -45,17 +45,10 @@ export default function Header({
       <div className="max-w-7xl mx-auto px-6 lg:px-10 py-4 flex items-center justify-between">
         <Link
           href={base}
-          className="flex items-center"
-          aria-label="Сибирский кедр"
+          className="flex items-center text-white"
+          aria-label={dict.brand.name}
         >
-          <Image
-            src="/images/logo.png"
-            alt="Сибирский кедр"
-            width={180}
-            height={52}
-            priority
-            className="h-9 w-auto brightness-0 invert"
-          />
+          <Logo dict={dict} size="md" />
         </Link>
 
         <nav className="hidden md:flex items-center gap-7 text-sm text-white/85">

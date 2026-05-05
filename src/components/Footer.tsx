@@ -1,6 +1,6 @@
-import Image from "next/image";
 import Link from "next/link";
 import { siteConfig } from "@/config/site";
+import Logo from "./Logo";
 import type { Locale } from "@/config/i18n";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
 
@@ -18,14 +18,12 @@ export default function Footer({
     <footer className="relative z-10 bg-cedar-900 text-white/80">
       <div className="max-w-7xl mx-auto px-6 lg:px-10 py-10 md:py-12 grid md:grid-cols-[1.3fr_1fr_1fr_1fr] gap-10">
         <div>
-          <Link href={base} className="inline-flex mb-3" aria-label="Сибирский кедр">
-            <Image
-              src="/images/logo.png"
-              alt="Сибирский кедр"
-              width={200}
-              height={58}
-              className="h-10 w-auto brightness-0 invert"
-            />
+          <Link
+            href={base}
+            className="inline-flex mb-3 text-white"
+            aria-label={dict.brand.name}
+          >
+            <Logo dict={dict} size="lg" />
           </Link>
           <p className="text-sm text-white/60 max-w-xs mb-5">
             {dict.footer.tagline}

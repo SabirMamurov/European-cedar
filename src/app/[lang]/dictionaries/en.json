@@ -3,6 +3,9 @@
     "title": "Siberian Cedar — premium pine nut kernels from the taiga",
     "description": "Siberian Cedar — ecologically clean pine nut kernels from the heart of the Siberian taiga. Hand harvested, eco-processed, shipped direct."
   },
+  "brand": {
+    "name": "Siberian Cedar"
+  },
   "nav": {
     "home": "Home",
     "story": "About Us",
