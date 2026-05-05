@@ -52,11 +52,11 @@ export default async function LangLayout({
   return (
     <html
       lang={lang}
-      className={`${inter.variable} ${playfair.variable}`}
+      className={`${inter.variable} ${playfair.variable} bg-cedar-900`}
       suppressHydrationWarning
     >
       <body
-        className="min-h-screen bg-cedar-900 text-white flex flex-col"
+        className="min-h-screen bg-cedar-900 text-white flex flex-col overscroll-none"
         suppressHydrationWarning
       >
         <Header lang={lang as Locale} dict={dict} />
